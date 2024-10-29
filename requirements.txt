@@ -1,0 +1,12 @@
+supervision==0.24.0
+ffmpeg==1.4
+opencv-python-headless
+torch==2.5.0
+numpy==1.21.4
+fastapi==0.115.3
+uvicorn==0.32.0
+nest-asyncio==1.6.0
+pyngrok==7.2.0
+python-multipart==0.0.12
+Pillow>=9.0.0
+
